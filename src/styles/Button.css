@@ -1,0 +1,13 @@
+button {
+    background-color: #b6b6b6;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    color: rgb(35, 35, 88);
+}
+
+.zero {
+    grid-column-start: 1;
+    grid-column-end: 4;
+}

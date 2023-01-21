@@ -1,0 +1,15 @@
+.display {
+    height: 100px;
+    width: 100%;
+    padding: 0 10px;
+    margin-bottom: 10px;
+    background-color: rgb(35, 35, 88);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    box-sizing: border-box;
+}
