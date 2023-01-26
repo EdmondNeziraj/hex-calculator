@@ -1,9 +1,11 @@
 import "../styles/Display.css";
 
-const Display = ({value}) => {
+const Display = ({ value }) => {
     return (
         <div className='display'>
-            {value}
+            {/* <p className="num"> */}
+                {value}
+            {/* </p> */}
         </div>
     )
 }
