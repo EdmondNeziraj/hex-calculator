@@ -1,2 +1,2 @@
-###Hexadecimal Calculator
+# Hexadecimal Calculator
 Hexadecimal Calculator is a web app made with ReactJS. The user has the value 0 as the initial state of their input and the input state display updates with the values the user enters. The evaluation action follows the order of arithmetic operations rules. The user is able to perform arithmetic operations on successive input values. In case of illegal operation between numbers, the input state evaluates to an error value which is updated in the input state display. Moreover, if an action causes a number overflow, then the input state evaluates to an error value that the input state displays.
